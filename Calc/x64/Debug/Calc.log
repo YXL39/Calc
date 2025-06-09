@@ -1,0 +1,4 @@
+﻿  Calc.cpp
+C:\Users\45321\Desktop\编程\C++\项目\Calc\Calc\Calc.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\45321\Desktop\编程\C++\项目\Calc\Calc\Calc.cpp(793,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Calc.vcxproj -> C:\Users\45321\Desktop\编程\C++\项目\Calc\x64\Debug\Calc.exe
