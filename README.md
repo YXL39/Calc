@@ -1,2 +1,1 @@
-# Calc
-### The executable file address is located at/x64/Debug/Calc.exe
+### 仿写Windows7的计算器，较为简陋（还在开发吗）。
